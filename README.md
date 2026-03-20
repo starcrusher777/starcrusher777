@@ -25,7 +25,7 @@ public class Developer {
         while(true) {
             WriteCode();
             Debug();
-            Deploy();
+            Deploy(); 
             Celebrate();
         }
     }

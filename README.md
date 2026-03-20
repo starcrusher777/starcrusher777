@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/starcrusher777?label=Followers&style=for-the-badge&color=blue)](https://github.com/starcrusher777)
 [![GitHub stars](https://img.shields.io/github/stars/starcrusher777?label=Stars&style=for-the-badge&color=yellow)](https://github.com/starcrusher777)
-![Profile Views](https://komarev.com/ghpvc/?starcrusher777=starcrusher777&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=starcrusher777&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -65,9 +65,9 @@ public class Developer {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?starcrusher777=starcrusher777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starcrusher777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?starcrusher777=starcrusher777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starcrusher777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=starcrusher777&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
@@ -81,7 +81,7 @@ public class Developer {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?starcrusher777=starcrusher777&repo=repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/starcrusher777/repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=starcrusher777&repo=repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/starcrusher777/repo-name)
 
 </div>
 
@@ -101,7 +101,7 @@ public class Developer {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?starcrusher777=starcrusher777&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=starcrusher777&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 </div>
 

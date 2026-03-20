@@ -4,9 +4,9 @@
 
 ### 💻 Developer | 🎯 Creating cool solutions
 
-[![GitHub followers](https://img.shields.io/github/followers/username?label=Followers&style=for-the-badge&color=blue)](https://github.com/username)
-[![GitHub stars](https://img.shields.io/github/stars/username?label=Stars&style=for-the-badge&color=yellow)](https://github.com/username)
-![Profile Views](https://komarev.com/ghpvc/?username=username&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/starcrusher777?label=Followers&style=for-the-badge&color=blue)](https://github.com/starcrusher777)
+[![GitHub stars](https://img.shields.io/github/stars/starcrusher777?label=Stars&style=for-the-badge&color=yellow)](https://github.com/starcrusher777)
+![Profile Views](https://komarev.com/ghpvc/?starcrusher777=starcrusher777&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -65,11 +65,11 @@ public class Developer {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?starcrusher777=starcrusher777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?starcrusher777=starcrusher777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=username&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=starcrusher777&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
@@ -81,7 +81,7 @@ public class Developer {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/username/repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?starcrusher777=starcrusher777&repo=repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/starcrusher777/repo-name)
 
 </div>
 
@@ -101,7 +101,7 @@ public class Developer {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=username&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?starcrusher777=starcrusher777&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 </div>
 
@@ -126,9 +126,9 @@ console.log('🚀 Ready for new challenges!');
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starcrusher777)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasya.vasilev11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/starcrusher777)
 
 </div>
 
@@ -140,7 +140,7 @@ console.log('🚀 Ready for new challenges!');
 
 > "The best code is code that is easy to read and maintain"
 
-![Snake animation](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/starcrusher777/starcrusher777/blob/output/github-contribution-grid-snake.svg)
 
 **Thanks for visiting!** ❤️
 

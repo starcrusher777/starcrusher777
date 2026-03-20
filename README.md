@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Vasily]!
 
 ### 💻 Developer | 🎯 Creating cool solutions
 
@@ -16,7 +16,7 @@
 
 ```csharp
 public class Developer {
-    public string Name = "Your Name";
+    public string Name = "Vasily";
     public string[] Skills = { "C#", "SQL", "JavaScript" };
     public string Passion = "Creating quality code";
     public bool IsLearning = true;

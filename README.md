@@ -1,5 +1,3 @@
-# Vasily
-
 Backend-oriented developer. Focus on **C#**, **.NET**, **SQL**, and **JavaScript**.
 
 ---
